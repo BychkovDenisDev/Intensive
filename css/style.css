@@ -71,11 +71,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
    font-family: 'Steppe-Book';
-   src: url("/task_2/assets/fonts/Steppe-Book.ttf");
+   src: url("../task_2/assets/fonts/Steppe-Book.ttf");
 }
 @font-face {
    font-family: 'Steppe-ExtraBold';
-   src: url("/task_2/assets/fonts/Steppe-ExtraBold.ttf");
+   src: url("../task_2/assets/fonts/Steppe-ExtraBold.ttf");
 }
 
 body {
@@ -159,7 +159,7 @@ body {
 
 .info_text {
    max-width: 697px;
-   font-size: 18;
+   font-size: 18px;
    line-height: 130%;
    margin-bottom: 40px;
 }
